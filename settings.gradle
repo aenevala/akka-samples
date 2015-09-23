@@ -1,0 +1,3 @@
+rootProject.name = 'akka-samples'
+include 'akka-distributed'
+
